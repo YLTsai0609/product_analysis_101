@@ -1,5 +1,6 @@
 # Metrics
 
+[ref](https://www.notion.so/014b5054ae7141e3866312a1d3a65b68)
 
 1. 怎麼選指標
 2. 常用指標和定義
