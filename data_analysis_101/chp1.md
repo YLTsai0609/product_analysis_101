@@ -29,25 +29,25 @@ C：最近日活雖然上漲趨勢不大，但
 * 對當前業務有價值
 * 可統計
 
-<img src='./assets/chp1_1.png'></img>
+<img src='../assets/chp1_1.png'></img>
 
 # Common Metrics - Segment
 
-<img src='./assets/chp1_2.png'></img>
+<img src='../assets/chp1_2.png'></img>
 
 ## User Metrics
 
-<img src='./assets/chp1_3.png'></img>
+<img src='../assets/chp1_3.png'></img>
 
 NOTE: user 可以是任何一種user，例如 讀者 or 創作者(部落客、youtuber、ig網紅) or 商家
 
 ## Behavior Metrics
 
-<img src='./assets/chp1_4.png'></img>
+<img src='../assets/chp1_4.png'></img>
 
 ## Business Metrics
 
-<img src='./assets/chp1_5.png'></img>
+<img src='../assets/chp1_5.png'></img>
 
 * 直接和營收掛鉤的指標
 * 和被消費內容互動相關指標

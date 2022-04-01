@@ -60,3 +60,7 @@ ref - missing
 - 3. 線下數據的採集：適合線上線下結合的業務場景（案例：無人貨架）
 - 4. 競品數據的採集：適合競品調研、跟蹤的場景（案例：Bilibili）
 - 5.【學員福利】一份 30+ 事件和 200+ 屬性的金融領域 DRD 模板
+
+# Discussion
+
+[notion link](notion.so/17a2034279eb48ed89ac33aed46ca5b0?v=89133e9826104d6a947c95cb4c719bf7)
