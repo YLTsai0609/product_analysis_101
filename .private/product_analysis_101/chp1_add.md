@@ -6,11 +6,11 @@
 
 * [How can I track new users, resurrected users, retained users, and dormant users? - credit source - Mixpanel, ethan](https://mixpanel.com/content/guide-to-product-analytics/chapter_3/#track-new-resurrected-retained-dormant-users)
 
-<img src='./assets/add1_1.png'></img>
+<img src='../assets/add1_1.png'></img>
 
 ## User Status with time
 
-<img src='./assets/add1_2.png'></img>
+<img src='../assets/add1_2.png'></img>
 
 at time : $T$ 
 
@@ -28,12 +28,12 @@ at time : $T+1$
 2. what is total addressable market(TAM) of your product?
 3. how much of the market share does your competitor have?
 
-<img src='./assets/add1_5.png'></img>
+<img src='../assets/add1_5.png'></img>
 
 # Product Growth and Market Penetation - 產品成長歷程和市場滲透
 
 
-<img src='./assets/add1_3.png'></img>
+<img src='../assets/add1_3.png'></img>
 
 $x$ : time
 
@@ -46,4 +46,4 @@ e.g. $y$ ~ $SOM$ = $\frac{貴司佔有的版位數量}{總版位數量}$
 
 # Product Health Metrics
 
-<img src='./assets/add1_4.png'></img>
+<img src='../assets/add1_4.png'></img>
